@@ -1,8 +1,18 @@
+<h1 align="center">🚀 Emre Can Kurt</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Hello,+I'm+Emre+Can!;Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
+</p>
+
+---
+
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank" href="mailto:can.kurt764@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a target="_blank" href="https://www.linkedin.com/in/emrecankurt/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
 </p>
+
+---
 
 <h2  align="center">🔧 Technologies & Tools</h2>
 
