@@ -1,6 +1,20 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
+  <span style="font-size: 30px; color: #FF5733; font-weight: bold; animation: blinkText 1.5 infinite;">
+    Welcome to my GitHub Profile!
+  </span>
+</p>
+
+<style>
+  @keyframes blinkText {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=600&color=808080&center=true&width=500&lines=Hello,+I'm+Emre+Can!;Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
 </p>
 
@@ -35,4 +49,4 @@
   </table>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmreCanKurt&layout=compact&theme=tokyonight)
+
