@@ -16,7 +16,10 @@
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm"/><br><strong>npm</strong></td>
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"/><br><strong>Git</strong></td>
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/><br><strong>GitHub</strong></td>
-      <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108384-7bf2a1a6-b2a1-4d87-8c6b-1104c6063b50.png" alt="Java"/><br><strong>Java</strong></td>
+     <td align="center" height="100" width="100">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br>
+  <strong>Java</strong>
+</td>
       <td align="center" height="100" width="100"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA"/><br><strong>IntelliJ IDEA</strong></td>
     </tr>
   </table>
