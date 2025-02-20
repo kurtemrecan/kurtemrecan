@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=600&color=F75C7E&center=true&width=500&lines=Hello,+I'm+Emre+Can!;%7C+Java+%7C+Spring+Boot+%7C+React+Developer+%7C+%7C;I+love+learning+new+technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=600&color=F75C7E&center=true&width=500&lines=Hello,+I'm+Emre+Can!;Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
 </p>
 
 
