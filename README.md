@@ -1,18 +1,8 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <span style="color:#ff5733; font-size:22px; font-weight:bold; animation: blink 1s infinite;">
-    Welcome to My Profile 🚀
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=450&lines=Hello,+I'm+Emre+Can!;%7C+%7C+Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
 </p>
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
