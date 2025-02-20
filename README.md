@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <span style="font-size: 30px; color: #FF5733; font-weight: bold; animation: blinkText 1.5 infinite;">
+  <span style="font-size: 30px; color: #FF5733; font-weight: bold; animation: blinkText 1.5s infinite;">
     Welcome to my GitHub Profile!
   </span>
 </p>
