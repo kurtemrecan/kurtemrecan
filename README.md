@@ -23,9 +23,8 @@
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"/><br><strong>Git</strong></td>
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/><br><strong>GitHub</strong></td>
      <td align="center" height="100" width="100">
-  <img width="50" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Java"/><br>
-  <strong>Java</strong>
-</td>
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br><strong>Java</strong>
+      </td>
       <td align="center" height="100" width="100">
   <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA"/><br>
   <strong>IntelliJ</strong>
