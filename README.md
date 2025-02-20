@@ -34,3 +34,5 @@
     </tr>
   </table>
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmreCanKurt&show_icons=true&theme=tokyonight)
