@@ -20,7 +20,7 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br>
   <strong>Java</strong>
 </td>
-      <td align="center" height="100" width="100"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA"/><br><strong>IntelliJ IDEA</strong></td>
+      <td align="center" height="100" width="100"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA"/><br><strong>IntelliJ IDEA</strong></td>
     </tr>
   </table>
 </div>
