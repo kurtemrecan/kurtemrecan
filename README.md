@@ -1,7 +1,12 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00FFA2&center=true&vCenter=true&multiline=true&width=450&lines=🌊+Hello,+I'm+Emre+Can!+🌊;🚀+Java+%7C+Spring+Boot+%7C+React+🚀;🔥+Let's+Build+Awesome+Projects!+🔥">
+  <span style="background: linear-gradient(90deg, #ff5733, #ffbd33, #33ff57, #3385ff);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-size: 24px; font-weight: bold;">
+    🚀 Java | Spring Boot | React Developer 🚀
+  </span>
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
