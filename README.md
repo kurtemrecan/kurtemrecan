@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 50px; color: #FF5733; font-weight: bold;">
+  <span style="font-size: '50px'; color: #FF5733; font-weight: bold;">
    🚀 Welcome to my GitHub Profile! 🚀
   </span>
 </p>
