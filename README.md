@@ -1,8 +1,4 @@
-<p align="center">
-  <span style="font-size: '50px'; color: #FF5733; font-weight: bold;">
-   🚀 Welcome to my GitHub Profile! 🚀
-  </span>
-</p>
+<h1 align="center">🚀 Welcome to my GitHub Profile! 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=600&color=808080&center=true&width=500&lines=Hello,+I'm+Emre+Can!;Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
