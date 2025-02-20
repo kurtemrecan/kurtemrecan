@@ -1,13 +1,13 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <span style="font-size: 30px; color: #FF5733; font-weight: bold; animation: blinkText 1.5s infinite;">
+  <span style="font-size: 30px; color: #FF5733; font-weight: bold; animation: blink 1s infinite;">
     Welcome to my GitHub Profile!
   </span>
 </p>
 
 <style>
-  @keyframes blinkText {
+  @keyframes blink {
     0% { opacity: 1; }
     50% { opacity: 0; }
     100% { opacity: 1; }
