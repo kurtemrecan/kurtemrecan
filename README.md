@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Hello,+I'm+Emre+Can!;Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&width=435&lines=Hello,+I'm+Emre+Can!;%7C+%7C+Java+%7C+Spring+Boot+%7C+React+Developer;I+love+learning+new+technologies!">
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
@@ -23,7 +23,7 @@
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git"/><br><strong>Git</strong></td>
       <td align="center" height="100" width="100"><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub"/><br><strong>GitHub</strong></td>
      <td align="center" height="100" width="100">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br>
+  <img width="50" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Java"/><br>
   <strong>Java</strong>
 </td>
       <td align="center" height="100" width="100">
