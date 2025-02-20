@@ -1,13 +1,18 @@
 <h1 align="center">🚀 Emre Can Kurt 🚀</h1>
 
 <p align="center">
-  <span style="background: linear-gradient(90deg, #ff5733, #ffbd33, #33ff57, #3385ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               font-size: 24px; font-weight: bold;">
-    🚀 Java | Spring Boot | React Developer 🚀
+  <span style="color:#ff5733; font-size:22px; font-weight:bold; animation: blink 1s infinite;">
+    Welcome to My Profile 🚀
   </span>
 </p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
